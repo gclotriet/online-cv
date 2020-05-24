@@ -39,17 +39,17 @@ education:
 experiences:
   - role: Software Developer
     time: 2017 - 2020
-    company: MedeMass
+    company: [MedeMass](https://www.medemass.com)
     details: >-
       Development and maintenance on a wide range of practice management
       products including the flagship product Elixir live.
   - role: Software Developer
     time: 2015 - 2017
-    company: NOSA
+    company: [NOSA](nosa.co.za)
     details: Development and design of new modules for occupational health software.
   - role: Sotfware Developer
     time: 2014 - 2015
-    company: Wagersoft
+    company: [Wagersoft](wagersoft.co.za)
     details: >-
       New development and design of back end systems and maintenance of existing
       applications as well as Database administration.
