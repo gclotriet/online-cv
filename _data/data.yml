@@ -28,35 +28,41 @@ career-profile:
     Throughout my career i have predominantly been working in the Delphi space,
     I have worked in various industries.
 education:
-  - degree: NDip 
+  - degree: NDip
     university: Technikon Pretoria
-    time: 1998
-    details: >-
-       National Diploma - Electrical Engineering (Digital Technology)     
+    time:
+    details: National Diploma - Electrical Engineering (Digital Technology)
+  - degree: BSc in Computer Science
+    university: University of South Africa
+    time:
+    details: BSc Computer Science & Information Systems  (Software Engineering)
 experiences:
   - role: Software Developer
-    time: 2017 - Present
+    time:
     company: MedeMass
     details: >-
       Development and maintenance on a wide range of practice management
       products including the flagship product Elixir live
   - role: Software Developer
-    time: 2015 - 2017
+    time:
     company: NOSA
     details: Development and design of new modules for occupational health software.
   - role: Sotfware Developer
-    time: 2014 - 2015
+    time:
     company: Wagersoft
     details: >-
       New development and design of back end systems and maintenance of existing
       applications as well as Database administration.
   - role: Software Developer
-    time: 2011 - 2014
+    time:
     company: Healthrad
     details: >-
-     Responsible for front and back end development and design of the Company’s products which include dictation and a radiology information system used by several radiology practices nationwide in order to capture patient data and manage financial information.
+      Responsible for front and back end development and design of the Company’s
+      products which include dictation and a radiology information system used
+      by several radiology practices nationwide in order to capture patient data
+      and manage financial information.
   - role: Software Developer
-    time: 2006 - 2011
+    time:
     company: LGR Telecommunications
     details: >-
       Responsible for front and back end development and design of the Company’s
@@ -79,10 +85,11 @@ projects:
 publications:
   title: My mission
   intro: >-
-        I have worked in the hardware and software industry for many years and have learnt that every industry is different and has its own challenges. 
-
-         I am willing and able to adapt and learn and to do what is necessary to meet any new challenge in my career. I am open to any new and existing technologies and eager to learn and implement them.
-
+    I have worked in the hardware and software industry for many years and have
+    learnt that every industry is different and has its own challenges.  I am
+    willing and able to adapt and learn and to do what is necessary to meet any
+    new challenge in my career. I am open to any new and existing technologies
+    and eager to learn and implement them.
 skills:
   title: Skills &amp; Proficiency
   toolset:
