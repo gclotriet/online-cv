@@ -38,7 +38,7 @@ education:
     details: BSc Computer Science & Information Systems  (Software Engineering)
 experiences:
   - role: Software Developer
-    time: 2017 - 2020
+    time: 2017 - Current
     company: MedeMass
     details: >-
       Development and maintenance on a wide range of practice management
@@ -54,7 +54,7 @@ experiences:
       New development and design of back end systems and maintenance of existing
       applications as well as Database administration.
   - role: Software Developer
-    time: 2011 - 2014
+    time: 2014 - 2015
     company: Healthrad
     details: >-
       Responsible for front and back end development and design of the Company’s
@@ -71,7 +71,7 @@ experiences:
       (BI) systems at leading international operators including AT&T, Telstra,
       MTN and many other networks.
   - role: Software Developer
-    time: 2005 - 2006
+    time: 2006 - 2011
     company: Orbtech
     details: >-
       Development and design of Vehicle Tracking Software including extensive
@@ -86,8 +86,8 @@ experiences:
       Inventory Management system, a low cost, practical inventory management
       system that monitors and reconciles incoming, stored, transferred and
       outgoing inventory.
-  - role:Software Developer
-    time: 2000 - 2005
+  - role: Software Developer
+  time: 2000 - 2005
     company:
     details:
 projects:
