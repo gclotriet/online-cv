@@ -88,23 +88,18 @@ experiences:
       Inventory Management system, a low cost, practical inventory management
       system that monitors and reconciles incoming, stored, transferred and
       outgoing inventory.
-#projects:
-#  title: Exposure
-#  intro: >-
-#    Work exposure during my career includes but is not limited to.. 
-skills:
+projects:
   title: Exposure
   intro: >-
     Work exposure during my career includes but is not limited to.. 
-  toolset:
-    - name: Product research and design
-    - name: Client and support problem solving
-    - name: Data integrity testing and analysis
-    - name: Work in agile teams (Scrum)
-    - name: OOP implementation    
-    - name: QlikView development and design    
-    - name: REST development    
-    - name: Database exposure (MySQL, SQL Server, Oracle, Firebird, SQLite)        
+    - Product research and design
+    - Client and support problem solving
+    - Data integrity testing and analysis
+    - Work in agile teams (Scrum)
+    - OOP implementation    
+    - QlikView development and design    
+    - REST development    
+    - Database exposure (MySQL, SQL Server, Oracle, Firebird, SQLite)        
 publications:
   title: My mission
   intro: >-
