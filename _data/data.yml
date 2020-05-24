@@ -8,7 +8,7 @@ sidebar:
   phone: +27 81 269 3673
   website: gclotriet.online
   linkedin: linkedin.com/in/gclotriet
-  github: 'https://github.com/gclotriet'
+  github: https://github.com/gclotriet
   gitlab:
   bitbucket:
   twitter: gclotriet
@@ -88,12 +88,40 @@ experiences:
       Inventory Management system, a low cost, practical inventory management
       system that monitors and reconciles incoming, stored, transferred and
       outgoing inventory.
+  - role: Software Developer
+    time: 2000 - 2005
+    company: <a href="https://www.liquidauto.co.za/">Liquid Automation Systems</a>        
+    details: >-
+      Development of Electronic Delivery Information System for Johannesburg
+      International Airport Fuelling Services. Development of Optimized Modular
+      Inventory Management system, a low cost, practical inventory management
+      system that monitors and reconciles incoming, stored, transferred and
+      outgoing inventory.
+  - role: Software Developer
+    time: 1999 - 1999
+    company: Thaba Micro Loans
+    details: >-
+      Micro lending application.
+  - role: Technician
+    time: 1997 - 1999
+    company: <a href="http://www.pinnacle.co.za//">Pinnacle Micro</a>        
+    details: >-
+     Component level repairs to Notebooks & different hardware including all pc
+     accessories. Providing software support at helpdesk. 
+     Setup and configuration of software of all hardware devices soldy.      
+  - role: Technician
+    time: 1997 - 1999
+    company: Technicare Computer Services
+    details: >-
+     Practical training component required for engineering diploma which included
+     component level repairs to electronic circuit boards, mostly printers and power supplies.          
 projects:
   title: Exposure
   intro: >-
     Work exposure during my career includes but is not limited to.. 
+    - Hardware
     - Product research and design
-    - Client and support problem solving
+    - Client support and problem solving
     - Data integrity testing and analysis
     - Work in agile teams (Scrum)
     - OOP implementation    
@@ -125,5 +153,4 @@ skills:
       level: 90%      
     - name: Javascript
       level: 50%            
-      
 footer:
