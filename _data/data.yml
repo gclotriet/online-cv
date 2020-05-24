@@ -1,32 +1,26 @@
 sidebar:
   about: true
   education: true
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Christo Lotriet
+  tagline: Software Developer
   avatar: profile.png
-  email: hello@webjeda.com
+  email: gclotriet@gmail.com
   phone: 012 345 6789
-  website: blog.webjeda.com
-  linkedin: alandoe
-  github: sharu725
+  website: gclotriet.online
+  linkedin: '@gclotriet'
+  github: github.com/gclotriet
   gitlab:
   bitbucket:
-  twitter: webjeda
+  twitter:
   stack-overflow:
   codewars:
   languages:
     - idiom: English
+      level: Professional
+    - idiom: Afrikaans
       level: Native
-    - idiom: French
-      level: Professional
-    - idiom: Spanish
-      level: Professional
   interests:
     - item: Climbing
-      link:
-    - item: Snowboarding
-      link:
-    - item: Cooking
       link:
 career-profile:
   title: Career Profile
