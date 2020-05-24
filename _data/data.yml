@@ -86,6 +86,10 @@ experiences:
       Inventory Management system, a low cost, practical inventory management
       system that monitors and reconciles incoming, stored, transferred and
       outgoing inventory.
+  - role:
+    time:
+    company:
+    details:
 projects:
   title: Projects
   intro: >-
