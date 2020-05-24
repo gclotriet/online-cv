@@ -92,10 +92,17 @@ projects:
   title: Exposure
   intro: >-
     Work exposure during my career includes but is not limited to.. 
-custom:
-    queues: # this can be named anything your heart desires
-      - "queue1"
-      - "queue2"       
+skills:
+  title: Skills &amp; Proficiency
+  toolset:
+    - name: Product research and design
+    - name: Client and support problem solving
+    - name: Data integrity testing and analysis
+    - name: Work in agile teams (Scrum)
+    - name: OOP implementation    
+    - name: QlikView development and design    
+    - name: REST development    
+    - name: Database exposure (MySQL, SQL Server, Oracle, Firebird, SQLite)        
 publications:
   title: My mission
   intro: >-
