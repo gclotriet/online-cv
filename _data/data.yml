@@ -29,16 +29,16 @@ career-profile:
     I have worked in various industries.
 education:
   - degree: NDip
-    university: Technikon Pretoria
-    time: 1998
+    university: Technikon Pretoria (1998)
+    time:
     details: National Diploma - Electrical Engineering (Digital Technology)
   - degree: BSc in Computer Science
-    university: University of South Africa
-    time: 2008
+    university: University of South Africa (2008)
+    time:
     details: BSc Computer Science & Information Systems  (Software Engineering)
 experiences:
   - role: Software Developer
-    time: 2017-2020
+    time: 2017 - 2020
     company: MedeMass
     details: >-
       Development and maintenance on a wide range of practice management
@@ -48,13 +48,13 @@ experiences:
     company: NOSA
     details: Development and design of new modules for occupational health software.
   - role: Sotfware Developer
-    time: 2015-2017
+    time: 2015 - 2017
     company: Wagersoft
     details: >-
       New development and design of back end systems and maintenance of existing
       applications as well as Database administration.
   - role: Software Developer
-    time: 2011-2014
+    time: 2011 - 2014
     company: Healthrad
     details: >-
       Responsible for front and back end development and design of the Company’s
@@ -62,7 +62,7 @@ experiences:
       by several radiology practices nationwide in order to capture patient data
       and manage financial information.
   - role: Software Developer
-    time: 2011-2014
+    time: 2011 - 2014
     company: LGR Telecommunications
     details: >-
       Responsible for front and back end development and design of the Company’s
@@ -71,14 +71,14 @@ experiences:
       (BI) systems at leading international operators including AT&T, Telstra,
       MTN and many other networks.
   - role: Software Developer
-    time: 2005-2006
+    time: 2005 - 2006
     company: Orbtech
     details: >-
       Development and design of Vehicle Tracking Software including extensive
       reporting on vehicle tracks, location, stops, mileage, speed, idle time,
       trip time, fuel consumption.
   - role: Software Developer
-    time: 2005-2006
+    time: 2005 - 2006
     company: Liquid Automation Systems
     details: >-
       Development of Electronic Delivery Information System for Johannesburg
@@ -87,7 +87,7 @@ experiences:
       system that monitors and reconciles incoming, stored, transferred and
       outgoing inventory.
   - role:Software Developer
-    time: 2000-2005
+    time: 2000 - 2005
     company:
     details:
 projects:
