@@ -93,14 +93,14 @@ projects:
   intro: >-
     Work exposure during my career includes but is not limited to.. 
   assignments:
-    - Product research and design
-    - Client and support problem solving
-    - Data integrity testing and analysis
-    - Work in agile teams (Scrum)
-    - OOP implementation    
-    - QlikView development and design    
-    - REST development    
-    - Database exposure (MySQL, SQL Server, Oracle, Firebird, SQLite)        
+    - item: Product research and design
+    - item: Client and support problem solving
+    - item: Data integrity testing and analysis
+    - item: Work in agile teams (Scrum)
+    - item: OOP implementation    
+    - item: QlikView development and design    
+    - item: REST development    
+    - item: Database exposure (MySQL, SQL Server, Oracle, Firebird, SQLite)        
 publications:
   title: My mission
   intro: >-
