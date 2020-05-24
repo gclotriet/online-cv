@@ -84,11 +84,12 @@ projects:
         A responsive website template designed to help startups promote, market
         and sell their products.
 publications:
-  title: Publications
+  title: My mission
   intro: >-
-    You can list your publications in this section. Lorem ipsum dolor sitamet,
-    consectetur adipiscing elit. Vestibulum et ligula in nuncbibendum fringilla
-    a eu lectus.
+        I have worked in the hardware and software industry for many years and have learnt that every industry is different and has its own challenges. 
+
+         I am willing and able to adapt and learn and to do what is necessary to meet any new challenge in my career. I am open to any new and existing technologies and eager to learn and implement them.
+
   papers:
     - title: The Art of Computer Programming
       authors: Donald E. Knuth
