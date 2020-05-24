@@ -29,12 +29,12 @@ career-profile:
     I have worked in various industries.
 education:
   - degree: NDip
-    university: Technikon Pretoria (1998)
-    time:
+    university: Technikon Pretoria
+    time: 1998
     details: National Diploma - Electrical Engineering (Digital Technology)
   - degree: BSc in Computer Science
-    university: University of South Africa (2008)
-    time:
+    university: University of South Africa
+    time: 2008
     details: BSc Computer Science & Information Systems  (Software Engineering)
 experiences:
   - role: Software Developer
@@ -44,7 +44,7 @@ experiences:
       Development and maintenance on a wide range of practice management
       products including the flagship product Elixir live.
   - role: Software Developer
-    time: 2017 - 2020
+    time: 2015 - 2017
     company: NOSA
     details: Development and design of new modules for occupational health software.
   - role: Sotfware Developer
@@ -86,10 +86,6 @@ experiences:
       Inventory Management system, a low cost, practical inventory management
       system that monitors and reconciles incoming, stored, transferred and
       outgoing inventory.
-  - role: Software Developer
-  time: 2000 - 2005
-    company:
-    details:
 projects:
   title: Projects
   intro: >-
