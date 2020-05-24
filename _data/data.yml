@@ -25,45 +25,45 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: >-
-    Summarise your career here lorem ipsum dolor sit amet,
-    consectetueradipiscing elit. You can [download this free resume/CV template
-    here]().Aenean commodo ligula eget dolor aenean massa. Cum sociis
-    natoquepenatibus et magnis dis parturient montes, nascetur ridiculus
-    mus.Donec quam felis, ultricies nec, pellentesque eu.Second paragraph if
-    required.
+    Throughout my career i have predominantly been working in the Delphi space,
+    I have worked in various industries.
 education:
   - degree: BSc in Computer Science
     university: University of South Africa
     time:
     details: >-
-      Describe your study here lorem ipsum dolor sit amet,
-      consectetueradipiscing elit. Aenean commodo ligula eget dolor. Aenean
-      massa. Cumsociis natoque penatibus et magnis dis parturient montes,
-      nasceturridiculus mus. Donec quam felis, ultricies nec, pellentesque
-      eu,pretium quis, sem.  - Bullet point  - Bullet point
+       BSc Computer Science & Information Systems  (Software Engineering)
+       
+education:
+  - degree: NDip 
+    university: Technikon Pretoria
+    time:
+    details: >-
+       National Diploma - Electrical Engineering (Digital Technology)     
+       
 experiences:
   - role: Software Developer
-    time:
+    time: 2017 - Present
     company: MedeMass
     details: >-
       Development and maintenance on a wide range of practice management
       products including the flagship product Elixir live
   - role: Software Developer
-    time:
+    time: 2015 - 2017
     company: NOSA
-    details: Development and design of new modules for current software
+    details: Development and design of new modules for occupational health software.
   - role: Sotfware Developer
-    time:
+    time: 2014 - 2015
     company: Wagersoft
     details: >-
       New development and design of back end systems and maintenance of existing
       applications as well as Database administration.
   - role: Software Developer
-    time:
+    time: 2011 - 2014
     company: Healthrad
     details:
   - role: Software Developer
-    time:
+    time: 2006 - 2011
     company: LGR Telecommunications
     details: >-
       Responsible for front and back end development and design of the Company’s
