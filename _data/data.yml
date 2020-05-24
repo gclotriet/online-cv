@@ -54,24 +54,29 @@ experiences:
     details: >-
       Development and maintenance on a wide range of practice management
       products including the flagship product Elixir live
-  - role: Senior Software Engineer
+  - role: Software Developer
     time:
-    company: 'Google, London'
-    details: >-
-      Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
-      penatibus et magnis dis parturient montes,nascetur ridiculus mus. Donec
-      quam felis, ultricies nec,pellentesque eu, pretium quis, sem.  - Bullet
-      point  - Bullet point
-  - role: UI Developer
+    company: NOSA
+    details: Development and design of new modules for current software
+  - role: Sotfware Developer
     time:
-    company: 'Amazon, London'
+    company: Wagersoft
     details: >-
-      Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
-      penatibus et magnis dis parturient montes,nascetur ridiculus mus. Donec
-      quam felis, ultricies nec,pellentesque eu, pretium quis, sem.  - Bullet
-      point  - Bullet point
+      New development and design of back end systems and maintenance of existing
+      applications as well as Database administration.
+  - role: Software Developer
+    time:
+    company: Healthrad
+    details:
+  - role: Software Developer
+    time:
+    company: LGR Telecommunications
+    details: >-
+      Responsible for front and back end development and design of the Company’s
+      products which Core business is the provision and management of the
+      world’s foremost, end-to-end Data Warehouse (DW) and Business Intelligence
+      (BI) systems at leading international operators including AT&T, Telstra,
+      MTN and many other networks.
 projects:
   title: Projects
   intro: >-
