@@ -34,11 +34,11 @@ education:
     details: National Diploma - Electrical Engineering (Digital Technology)
   - degree: BSc in Computer Science
     university: University of South Africa
-    time:
+    time:2008
     details: BSc Computer Science & Information Systems  (Software Engineering)
 experiences:
   - role: Software Developer
-    time:2008
+    time:2017-2020
     company: MedeMass
     details: >-
       Development and maintenance on a wide range of practice management
@@ -48,7 +48,7 @@ experiences:
     company: NOSA
     details: Development and design of new modules for occupational health software.
   - role: Sotfware Developer
-    time:2017-2020
+    time:2015-2017
     company: Wagersoft
     details: >-
       New development and design of back end systems and maintenance of existing
