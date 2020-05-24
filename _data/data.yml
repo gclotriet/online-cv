@@ -88,12 +88,14 @@ experiences:
       Inventory Management system, a low cost, practical inventory management
       system that monitors and reconciles incoming, stored, transferred and
       outgoing inventory.
-projects:
+#projects:
+#  title: Exposure
+#  intro: >-
+#    Work exposure during my career includes but is not limited to.. 
+skills:
   title: Exposure
   intro: >-
     Work exposure during my career includes but is not limited to.. 
-skills:
-  title: Skills &amp; Proficiency
   toolset:
     - name: Product research and design
     - name: Client and support problem solving
