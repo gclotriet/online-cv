@@ -26,7 +26,8 @@ career-profile:
   title: Career Profile
   summary: >-
     Throughout my career i have predominantly been working in the Delphi space,
-    I have worked in various industries and gained 
+    I have gained a lot of experience as a software developer and am constantly 
+    expanding my skill set.
 education:
   - degree: NDip
     university: Technikon Pretoria
@@ -120,4 +121,9 @@ skills:
       level: 50%
     - name: Jekyll
       level: 50%
+    - name: CVS / Subversion / Git
+      level: 90%      
+    - name: Javascript
+      level: 50%            
+      
 footer:
