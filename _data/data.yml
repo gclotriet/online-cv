@@ -48,18 +48,12 @@ education:
       nasceturridiculus mus. Donec quam felis, ultricies nec, pellentesque
       eu,pretium quis, sem.  - Bullet point  - Bullet point
 experiences:
-  - role: Lead Developer
+  - role: Software Developer
     time:
-    company: 'Startup Hubs, San Francisco'
+    company: MedeMass
     details: >-
-      Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
-      penatibus et magnis dis parturient montes,nascetur ridiculus mus. Donec
-      quam felis, ultricies nec,pellentesque eu, pretium quis, sem. Nulla
-      consequat massa quisenim. Donec pede justo. Sed ut perspiciatis unde omnis
-      iste natuserror sit voluptatem accusantium doloremque laudantium, totam
-      remaperiam, eaque ipsa quae ab illo inventore veritatis et quasiarchitecto
-      beatae vitae dicta sunt explicabo.  - Bullet point  - Bullet point
+      Development and maintenance on a wide range of practice management
+      products including the flagship product Elixir live
   - role: Senior Software Engineer
     time:
     company: 'Google, London'
