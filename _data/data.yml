@@ -70,6 +70,22 @@ experiences:
       world’s foremost, end-to-end Data Warehouse (DW) and Business Intelligence
       (BI) systems at leading international operators including AT&T, Telstra,
       MTN and many other networks.
+  - role: Software Developer
+    time:
+    company: Orbtech
+    details: >-
+      Development and design of Vehicle Tracking Software including extensive
+      reporting on vehicle tracks, location, stops, mileage, speed, idle time,
+      trip time, fuel consumption.
+  - role: Software Developer
+    time:
+    company: Liquid Automation Systems
+    details: >-
+      Development of Electronic Delivery Information System for Johannesburg
+      International Airport Fuelling Services. Development of Optimized Modular
+      Inventory Management system, a low cost, practical inventory management
+      system that monitors and reconciles incoming, stored, transferred and
+      outgoing inventory.
 projects:
   title: Projects
   intro: >-
