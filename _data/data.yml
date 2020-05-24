@@ -19,9 +19,9 @@ sidebar:
       level: Professional
     - idiom: Afrikaans
       level: Native
-  interests:
-    - item: Climbing
-      link:
+#  interests:
+#    - item: Climbing
+#      link:
 career-profile:
   title: Career Profile
   summary: >-
