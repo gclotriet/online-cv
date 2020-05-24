@@ -26,7 +26,7 @@ career-profile:
   title: Career Profile
   summary: >-
     Throughout my career i have predominantly been working in the Delphi space,
-    I have worked in various industries.
+    I have worked in various industries and gained 
 education:
   - degree: NDip
     university: Technikon Pretoria
@@ -55,7 +55,7 @@ experiences:
       applications as well as Database administration.
   - role: Software Developer
     time: 2011 - 2014
-    company: Healthrad
+    company: <a href="http://www.healthrad.co.za/">HealthRad</a>
     details: >-
       Responsible for front and back end development and design of the Company’s
       products which include dictation and a radiology information system used
