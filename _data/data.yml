@@ -33,14 +33,12 @@ education:
     time: 2008
     details: >-
        BSc Computer Science & Information Systems  (Software Engineering)
-       
 education:
   - degree: NDip 
     university: Technikon Pretoria
     time: 1998
     details: >-
        National Diploma - Electrical Engineering (Digital Technology)     
-       
 experiences:
   - role: Software Developer
     time: 2017 - Present
