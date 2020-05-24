@@ -91,30 +91,16 @@ experiences:
 projects:
   title: Exposure
   intro: >-
-    Product research and design.
-    Client and support problem solving.
-    Data integrity testing and analysis.
-    Work in agile teams (Scrum).
-    OOP implementation.
-    QlikView development and design.
-    REST development.
-    Database exposure (MySQL, SQL Server, Oracle, Firebird, SQLite). 
-    
+    Work exposure during my career includes but is not limited to.. 
   assignments:
-    - title: Product research and design
-    - title: Client and support problem solving
-    - title: Data integrity testing and analysis
-    - title: Work in agile teams (Scrum)
-    - title: OOP implementation    
-    - title: QlikView development and design    
-    - title: REST development    
-    - title: Database exposure (MySQL, SQL Server, Oracle, Firebird, SQLite)        
-    
-
-#      link: '#hook'
-#      tagline: >-
-#        A responsive website template designed to help startups promote, market
-#        and sell their products.
+    - Product research and design
+    - Client and support problem solving
+    - Data integrity testing and analysis
+    - Work in agile teams (Scrum)
+    - OOP implementation    
+    - QlikView development and design    
+    - REST development    
+    - Database exposure (MySQL, SQL Server, Oracle, Firebird, SQLite)        
 publications:
   title: My mission
   intro: >-
