@@ -7,6 +7,8 @@ sidebar:
   email: gclotriet@gmail.com
   phone: +27 81 269 3673
   website: 
+  linkedin: gclotriet
+  github: gclotriet
   gitlab:
   bitbucket:
   twitter: gclotriet
@@ -37,8 +39,13 @@ education:
     details: BSc Computer Science & Information Systems  (Software Engineering)
 experiences:
   - role: Software Developer
+    time: 2020 - Present
+    company: <a href="https://www.discovery.co.za">Discovery</a>
+    details: >-
+      Development and maintenance on Discovery Invest products.
+  - role: Software Developer
     time: 2017 - 2020
-    company: <a href="https://www.medemass.co.za">MedeMass</a>
+    company: <a href="https://altronhealthtech.com/">MedeMass</a>
     details: >-
       Development and maintenance on a wide range of practice management
       products including the flagship product Elixir live.
@@ -54,7 +61,8 @@ experiences:
       applications as well as Database administration.
   - role: Software Developer
     time: 2011 - 2014
-    company: <a href="http://www.healthrad.co.za/">HealthRad</a>
+    company: HealthRad
+    #company: <a href="http://www.healthrad.co.za/">HealthRad</a>
     details: >-
       Responsible for front and back end development and design of the Company’s
       products which include dictation and a radiology information system used
@@ -63,7 +71,7 @@ experiences:
   - role: Software Developer
     time: 2006 - 2011
     company: LGR Telecommunications
-    company: <a href="http://www.lgr.co.za">LGR Telecommunications</a>    
+    #company: <a href="http://www.lgr.biz">LGR Telecommunications</a>    
     details: >-
       Responsible for front and back end development and design of the Company’s
       products which Core business is the provision and management of the
@@ -77,15 +85,6 @@ experiences:
       Development and design of Vehicle Tracking Software including extensive
       reporting on vehicle tracks, location, stops, mileage, speed, idle time,
       trip time, fuel consumption.
-  - role: Software Developer
-    time: 2000 - 2005
-    company: <a href="https://www.liquidauto.co.za/">Liquid Automation Systems</a>        
-    details: >-
-      Development of Electronic Delivery Information System for Johannesburg
-      International Airport Fuelling Services. Development of Optimized Modular
-      Inventory Management system, a low cost, practical inventory management
-      system that monitors and reconciles incoming, stored, transferred and
-      outgoing inventory.
   - role: Software Developer
     time: 2000 - 2005
     company: <a href="https://www.liquidauto.co.za/">Liquid Automation Systems</a>        
@@ -125,7 +124,7 @@ projects:
     - OOP implementation    
     - QlikView development and design    
     - REST development    
-    - Database exposure (MySQL, SQL Server, Oracle, Firebird, SQLite)        
+    - Database exposure (MySQL, PostgreSQL, SQL Server, Oracle, Firebird, SQLite)        
 publications:
   title: My mission
   intro: >-
