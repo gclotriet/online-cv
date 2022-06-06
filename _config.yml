@@ -25,5 +25,5 @@ compress_html: # - http://jch.penibelst.de/
 # Development Settings
 port: 4000
 # When Debugging set to 127.0.0.1 else for deploy 0.0.0.0
-host: 127.0.0.1
+host: 0.0.0.0
 safe: false
